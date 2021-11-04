@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tesi Di Laurea</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="login">login</string>
+    <string name="registrati">registrati</string>
+    <string name="aggiungi_al_carrello">Aggiungi al carrello</string>
+</resources>
